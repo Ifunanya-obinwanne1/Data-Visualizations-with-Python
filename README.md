@@ -1,4 +1,4 @@
-# Personal-python-Visualizations
+# Data Visualizations with python.
 A personal project that focuses on a dataset, "Telco Customer Churn," extracted from Kaggle, contains valuable information about customers of a telecommunications company and whether they have ended their service (churned). With 7,043 customer records and 21 columns, including demographics, account history, and payment details, it provides a comprehensive overview for analyzing customer behavior and predicting churn.
 
 Key Features:
